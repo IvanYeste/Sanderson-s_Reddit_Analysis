@@ -1,0 +1,6 @@
+praw
+pandas
+textblob
+matplotlib
+seaborn
+wordcloud
