@@ -42,7 +42,3 @@ sanderson-analysis/
     └── comparativa_subreddits_sanderson.csv
 ```
 
-## ✍️ Autor
-
-Desarrollado por [Tu Nombre Aquí].
-
